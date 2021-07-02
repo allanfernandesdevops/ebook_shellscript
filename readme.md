@@ -4,7 +4,7 @@
 
 # e-book Arena Shell
 
-![](C:\Users\ferna\Documents\Arena Linux\ebook\Capa ebook.png)
+![](https://github.com/gitarena/ebook_shellscript/blob/main/Capa%20ebook.png)
 
 Todos os scripts estão disponíveis em: https://github.com/gitarena/arenashell 
 
