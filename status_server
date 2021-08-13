@@ -1,0 +1,9 @@
+#!/bin/bash
+
+status_http=$(curl --write-out %{http_code} --silent --output /dev/null https://www.lumis.com.br)
+
+if [ $status_http -ne 200 ]; then
+
+    systemctl restart httpd
+
+fi
